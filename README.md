@@ -2,8 +2,7 @@ Hi 👋 My name is Kingsley okon
 ==============================
 Software Engineer
 -----------------
-*   I’m a Final year Software Engineering student at york university and i'm interested in most things software and design but lately have been fociusing *   on web and native apps
-*   
+*   I’m a Final year Software Engineering student at york university. I'm interested in most things software and design but lately have been fociusing  on web and native apps
 *   I’m currently learning React native and Node.js
 *   🌍  I'm based in Toronto
 *   ✉️  You can contact me at [kingsleyokon09@gmail.com](mailto:kingsleyokon09@gmail.com)
@@ -23,6 +22,7 @@ Software Engineer
 <a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+
 </p>
 
 ### Socials
