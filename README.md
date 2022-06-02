@@ -2,7 +2,7 @@ Hi 👋 My name is Kingsley okon
 ==============================
 Software Engineer
 -----------------
-*   I’m a Final year Software Engineering student at york university. I'm interested in all things software and design but lately have been focusing  on web and native apps
+*   I’m a final year Software Engineering student at York University. I'm interested in all things software and design but lately have been focusing  on web and native apps
 *   I’m currently learning React native and Node.js
 *   🌍  I'm based in Toronto
 *   ✉️  You can contact me at [kingsleyokon09@gmail.com](mailto:kingsleyokon09@gmail.com)
