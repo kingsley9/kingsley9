@@ -2,7 +2,7 @@ Hi 👋 My name is Kingsley okon
 ==============================
 
 -----------------
-*   I’m a 5th year Software Engineering student at Lassonde. I'm interested in software engineering and data science and lately have been focusing  on cross platform mobile development and open source marketplace research.
+*   I’m a 5th year software engineering student at Lassonde. I'm interested in software engineering and data science and lately have been focusing  on cross platform mobile development and open source marketplace research.
 *   🌍  I'm based in Toronto
 *   ✉️  You can contact me at [kingsleyokon09@gmail.com](mailto:kingsleyokon09@gmail.com)
    
