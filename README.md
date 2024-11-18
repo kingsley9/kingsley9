@@ -1,11 +1,15 @@
-Hi 👋 My name is Kingsley Okon
-==============================
+# Hi 👋, I'm Kingsley Okon
 
------------------
-*   I’m a 5th year software engineering student at Lassonde. I'm interested in software engineering and data science and lately have been focusing on cross platform development and open source marketplace research.
-*   🌍  I'm based in Toronto
-*   ✉️  You can contact me at [kingsleyokon09@gmail.com](mailto:kingsleyokon09@gmail.com)
-   
+## Software Engineer | Data Science Enthusiast
+
+Recent Software Engineering graduate from York University, specializing in Cybersecurity. I'm passionate about building scalable applications and exploring data science solutions.
+
+### Current Focus
+- Co-founder at [B-Lens Corp](https://blens.ca)
+- Building with Python, React, Ruby on Rails, and AWS
+
+🌍 Based in Toronto  
+✉️ Contact: kingsleyokon09@gmail.com
 ### Skills
 
 <p align="left">
