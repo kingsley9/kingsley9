@@ -1,12 +1,11 @@
 # Hi 👋, I'm Kingsley Okon
 
-## Software Engineer | Data Science Enthusiast
+## Software Engineer
 
-Recent Software Engineering graduate from York University, specializing in Cybersecurity. I'm passionate about building scalable applications and exploring data science solutions.
+Software Engineer specializing in Cybersecurity. I'm passionate about building scalable applications and exploring data science solutions.
 
 ### Current Focus
-- Co-founder at [B-Lens Corp](https://blens.ca)
-- Building with Python, React, Ruby on Rails, and AWS
+- Building with C#, React, Ruby on Rails, and AWS
 
 🌍 Based in Toronto  
 ✉️ Contact: kingsleyokon09@gmail.com
